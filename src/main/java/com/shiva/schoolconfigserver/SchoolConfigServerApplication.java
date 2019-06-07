@@ -1,4 +1,4 @@
-package com.shiva.shoppingcartconfigserver;
+package com.shiva.schoolconfigserver;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
@@ -6,10 +6,10 @@ import org.springframework.cloud.config.server.EnableConfigServer;
 
 @SpringBootApplication
 @EnableConfigServer
-public class ShoppingCartConfigServerApplication {
+public class SchoolConfigServerApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(ShoppingCartConfigServerApplication.class, args);
+		SpringApplication.run(SchoolConfigServerApplication.class, args);
 	}
 
 }

@@ -8,5 +8,5 @@ spring:
     config:
       server:
         git:
-          uri: https://github.com/shiva-sondakar/shopping-cart-config.git
+          uri: https://github.com/shiva-sondakar/school-config.git
           search-paths: /*          

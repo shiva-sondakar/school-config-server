@@ -9,10 +9,10 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.shiva</groupId>
-	<artifactId>shopping-cart-config-server</artifactId>
+	<artifactId>school-config-server</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>shopping-cart-config-server</name>
-	<description>Shopping cart config server</description>
+	<name>school-config-server</name>
+	<description>School config server</description>
 
 	<properties>
 		<java.version>1.9</java.version>
